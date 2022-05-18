@@ -1,0 +1,48 @@
+{
+    "name": "neutral",
+    "displayName": "neutral",
+    "description": "Theme for vscode",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.54.0"
+    },
+    "keywords": [
+        "Themes",
+        "Neutral",
+        "NeutralII",
+        "NeutralII"
+    ],
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Neutral",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Neutral-color-theme.json"
+            },
+            {
+                "label": "NeutralII",
+                "uiTheme": "vs-dark",
+                "path": "./themes/NeutralII-color-theme.json"
+            },
+            {
+                "label": "NeutralIII",
+                "uiTheme": "vs-dark",
+                "path": "./themes/NeutralIII-color-theme.json"
+            }
+        ]
+    },
+    "icon": "img/dark.png",
+    "author": {
+        "name": "Yes Dev",
+        "email": "yesdev19@gmail.com"
+    },
+    "repository": {
+        "url": "https://github.com/yesomac/NeutralThemeVSC.git",
+        "type": "git"
+    },
+    "publisher": "YesCode",
+    "license": "MIT"
+}

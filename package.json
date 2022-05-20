@@ -2,15 +2,23 @@
     "name": "neutral",
     "displayName": "neutral",
     "description": "Theme for vscode",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "engines": {
         "vscode": "^1.54.0"
     },
     "keywords": [
         "Themes",
         "Neutral",
+        "Neutral(contrast)",
         "NeutralII",
-        "NeutralII"
+        "NeutralII(contrast)",
+        "NeutralII",
+        "NeutralIII(contrast)",
+        "NeutralIV",
+        "NeutralIV(contrast)",
+        "NeutralV",
+        "NeutralV(contrast)",
+        "NeutralVI(contrast)"
     ],
     "categories": [
         "Themes"
@@ -23,14 +31,54 @@
                 "path": "./themes/Neutral-color-theme.json"
             },
             {
+                "label": "Neutral(contrast)",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Neutral-contrast-color-theme.json"
+            },
+            {
                 "label": "NeutralII",
                 "uiTheme": "vs-dark",
                 "path": "./themes/NeutralII-color-theme.json"
             },
             {
+                "label": "NeutralII(contrast)",
+                "uiTheme": "vs-dark",
+                "path": "./themes/NeutralII(contrast)-color-theme.json"
+            },
+            {
                 "label": "NeutralIII",
                 "uiTheme": "vs-dark",
                 "path": "./themes/NeutralIII-color-theme.json"
+            },
+            {
+                "label": "NeutralIII(contrast)",
+                "uiTheme": "vs-dark",
+                "path": "./themes/NeutralIII-contrast-color-theme.json"
+            },
+            {
+                "label": "NeutralIV",
+                "uiTheme": "vs-dark",
+                "path": "./themes/NeutralIV-color-theme.json"
+            },
+            {
+                "label": "NeutralIV(contrast)",
+                "uiTheme": "vs-dark",
+                "path": "./themes/NeutralIV-contrast-color-theme.json"
+            },
+            {
+                "label": "NeutralV",
+                "uiTheme": "vs-dark",
+                "path": "./themes/NeutralV-color-theme.json"
+            },
+            {
+                "label": "NeutralV(contrast)",
+                "uiTheme": "vs-dark",
+                "path": "./themes/NeutralV-constrast-color-theme.json"
+            },
+            {
+                "label": "NeutralVI(contrast)",
+                "uiTheme": "vs-dark",
+                "path": "./themes/NeutralVI-color-theme.json"
             }
         ]
     },

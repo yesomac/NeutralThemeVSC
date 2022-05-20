@@ -94,7 +94,7 @@
 		"activityBarBadge.foreground": "#ddd",
 		"sideBarSectionHeader.foreground": "#ddd",
 		
-		"focusBorder": "#110b1b",
+		"focusBorder": "#020f18",
 		
 		"list.inactiveSelectionBackground": "#2b4e64c2",//1b2932
 		"settings.textInputBackground": "#1d3442",

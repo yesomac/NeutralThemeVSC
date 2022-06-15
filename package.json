@@ -18,7 +18,15 @@
         "NeutralIV(contrast)",
         "NeutralV",
         "NeutralV(contrast)",
-        "NeutralVI(contrast)"
+        "NeutralVI(contrast)",
+        "NeutralVII",
+        "NeutralVII(contrast)",
+        "NeutralIX",
+        "NeutralIX(contrast)",
+        "NeutralX",
+        "NeutralX(contrast)",
+        "NeutralXI",
+        "NeutralXI(contrast)"
     ],
     "categories": [
         "Themes"
@@ -79,6 +87,46 @@
                 "label": "NeutralVI(contrast)",
                 "uiTheme": "vs-dark",
                 "path": "./themes/NeutralVI-color-theme.json"
+            },
+            {
+                "label": "NeutralVII",
+                "uiTheme": "vs-dark",
+                "path": "./themes/NeutralVII-color-theme.json"
+            },
+            {
+                "label": "NeutralVII(contrast)",
+                "uiTheme": "vs-dark",
+                "path": "./themes/NeutralVII-contrast-color-theme.json"
+            },
+            {
+                "label": "NeutralVIII",
+                "uiTheme": "vs-dark",
+                "path": "./themes/NeutralIX-color-theme.json"
+            },
+            {
+                "label": "NeutralVIII(contrast)",
+                "uiTheme": "vs-dark",
+                "path": "./themes/NeutralIX-contrast-color-theme.json"
+            },
+            {
+                "label": "NeutralIX",
+                "uiTheme": "vs-dark",
+                "path": "./themes/NeutralX-color-theme.json"
+            },
+            {
+                "label": "NeutralIX(contrast)",
+                "uiTheme": "vs-dark",
+                "path": "./themes/NeutralX-contrast-color-theme.json"
+            },
+            {
+                "label": "NeutralX",
+                "uiTheme": "vs-dark",
+                "path": "./themes/NeutralXI-color-theme.json"
+            },
+            {
+                "label": "NeutralX(contrast)",
+                "uiTheme": "vs-dark",
+                "path": "./themes/NeutralXI-contrast-color-theme.json"
             }
         ]
     },

@@ -1,5 +1,32 @@
 # Neutral
 
+**New Themes**
+## Neutral VII
+![This is a image](https://github.com/yesomac/NeutralThemeVSC/blob/master/image/neutral_7.png?raw=true)
+
+## Neutral VII Contrast
+![This is a image](https://github.com/yesomac/NeutralThemeVSC/blob/master/image/neutral_7_contrast.png?raw=true)
+
+## Neutral VIII
+![This is a image](https://github.com/yesomac/NeutralThemeVSC/blob/master/image/neutral_8.png?raw=true)
+
+## Neutral VIII Contrast
+![This is a image](https://github.com/yesomac/NeutralThemeVSC/blob/master/image/neutral_8_contrast.png?raw=true)
+
+## Neutral IX
+![This is a image](https://github.com/yesomac/NeutralThemeVSC/blob/master/image/neutral_9.png?raw=true)
+
+## Neutral IX Contrast
+![This is a image](https://github.com/yesomac/NeutralThemeVSC/blob/master/image/neutral_9_contrast.png?raw=true)
+
+## Neutral X
+![This is a image](https://github.com/yesomac/NeutralThemeVSC/blob/master/image/neutral_10.png?raw=true)
+
+## Neutral X Contrast
+![This is a image](https://github.com/yesomac/NeutralThemeVSC/blob/master/image/neutral_10_contrast.png?raw=true)
+
+---
+
 ## Neutral I
 ![This is a image](https://github.com/yesomac/NeutralThemeVSC/blob/master/image/neutral.png?raw=true)
 
@@ -54,8 +81,14 @@ More Themes
 
 * https://marketplace.visualstudio.com/items?itemName=YesCode.soberTheme
 
+* https://marketplace.visualstudio.com/items?itemName=YesCode.only-dark-theme
+
 * https://marketplace.visualstudio.com/items?itemName=YesCode.darkspace
 
 * https://marketplace.visualstudio.com/items?itemName=YesCode.morita
 
 * https://marketplace.visualstudio.com/items?itemName=YesCode.purplespace
+
+* https://marketplace.visualstudio.com/items?itemName=YesCode.shadesTheme
+
+* https://marketplace.visualstudio.com/items?itemName=YesCode.greenspace

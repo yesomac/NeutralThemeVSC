@@ -1,29 +1,11 @@
 # Neutral
 
 **New Themes**
-## Neutral VII
-![This is a image](https://github.com/yesomac/NeutralThemeVSC/blob/master/image/neutral_7.png?raw=true)
+## Neutral XI
+![This is a image](https://github.com/yesomac/NeutralThemeVSC/blob/master/image/neutral_11.png?raw=true)
 
-## Neutral VII Contrast
-![This is a image](https://github.com/yesomac/NeutralThemeVSC/blob/master/image/neutral_7_contrast.png?raw=true)
-
-## Neutral VIII
-![This is a image](https://github.com/yesomac/NeutralThemeVSC/blob/master/image/neutral_8.png?raw=true)
-
-## Neutral VIII Contrast
-![This is a image](https://github.com/yesomac/NeutralThemeVSC/blob/master/image/neutral_8_contrast.png?raw=true)
-
-## Neutral IX
-![This is a image](https://github.com/yesomac/NeutralThemeVSC/blob/master/image/neutral_9.png?raw=true)
-
-## Neutral IX Contrast
-![This is a image](https://github.com/yesomac/NeutralThemeVSC/blob/master/image/neutral_9_contrast.png?raw=true)
-
-## Neutral X
-![This is a image](https://github.com/yesomac/NeutralThemeVSC/blob/master/image/neutral_10.png?raw=true)
-
-## Neutral X Contrast
-![This is a image](https://github.com/yesomac/NeutralThemeVSC/blob/master/image/neutral_10_contrast.png?raw=true)
+## Neutral XI Contrast
+![This is a image](https://github.com/yesomac/NeutralThemeVSC/blob/master/image/neutral_contrast_11.png?raw=true)
 
 ---
 
@@ -62,6 +44,30 @@
 
 ## Neutral VI
 ![This is a image](https://github.com/yesomac/NeutralThemeVSC/blob/master/image/neutralVI.png?raw=true)
+
+## Neutral VII
+![This is a image](https://github.com/yesomac/NeutralThemeVSC/blob/master/image/neutral_7.png?raw=true)
+
+## Neutral VII Contrast
+![This is a image](https://github.com/yesomac/NeutralThemeVSC/blob/master/image/neutral_7_contrast.png?raw=true)
+
+## Neutral VIII
+![This is a image](https://github.com/yesomac/NeutralThemeVSC/blob/master/image/neutral_8.png?raw=true)
+
+## Neutral VIII Contrast
+![This is a image](https://github.com/yesomac/NeutralThemeVSC/blob/master/image/neutral_8_contrast.png?raw=true)
+
+## Neutral IX
+![This is a image](https://github.com/yesomac/NeutralThemeVSC/blob/master/image/neutral_9.png?raw=true)
+
+## Neutral IX Contrast
+![This is a image](https://github.com/yesomac/NeutralThemeVSC/blob/master/image/neutral_9_contrast.png?raw=true)
+
+## Neutral X
+![This is a image](https://github.com/yesomac/NeutralThemeVSC/blob/master/image/neutral_10.png?raw=true)
+
+## Neutral X Contrast
+![This is a image](https://github.com/yesomac/NeutralThemeVSC/blob/master/image/neutral_10_contrast.png?raw=true)
 
 ---
 **Fonts:** 

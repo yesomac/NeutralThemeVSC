@@ -44,77 +44,77 @@
                 "path": "./themes/Neutral-contrast-color-theme.json"
             },
             {
-                "label": "Neutral II",
+                "label": "Neutral 2",
                 "uiTheme": "vs-dark",
                 "path": "./themes/NeutralII-color-theme.json"
             },
             {
-                "label": "Neutral II(contrast)",
+                "label": "Neutral 2(contrast)",
                 "uiTheme": "vs-dark",
                 "path": "./themes/NeutralII(contrast)-color-theme.json"
             },
             {
-                "label": "Neutral III",
+                "label": "Neutral 3",
                 "uiTheme": "vs-dark",
                 "path": "./themes/NeutralIII-color-theme.json"
             },
             {
-                "label": "Neutral III(contrast)",
+                "label": "Neutral 3(contrast)",
                 "uiTheme": "vs-dark",
                 "path": "./themes/NeutralIII-contrast-color-theme.json"
             },
             {
-                "label": "Neutral IV",
+                "label": "Neutral 4",
                 "uiTheme": "vs-dark",
                 "path": "./themes/NeutralIV-color-theme.json"
             },
             {
-                "label": "Neutral IV(contrast)",
+                "label": "Neutral 4(contrast)",
                 "uiTheme": "vs-dark",
                 "path": "./themes/NeutralIV-contrast-color-theme.json"
             },
             {
-                "label": "Neutral V",
+                "label": "Neutral 5",
                 "uiTheme": "vs-dark",
                 "path": "./themes/NeutralV-color-theme.json"
             },
             {
-                "label": "Neutral V(contrast)",
+                "label": "Neutral 5(contrast)",
                 "uiTheme": "vs-dark",
                 "path": "./themes/NeutralV-constrast-color-theme.json"
             },
             {
-                "label": "Neutral VI(contrast)",
+                "label": "Neutral 6(contrast)",
                 "uiTheme": "vs-dark",
                 "path": "./themes/NeutralVI-color-theme.json"
             },
             {
-                "label": "Neutral VII",
+                "label": "Neutral 7",
                 "uiTheme": "vs-dark",
                 "path": "./themes/NeutralVII-color-theme.json"
             },
             {
-                "label": "Neutral VII(contrast)",
+                "label": "Neutral 7(contrast)",
                 "uiTheme": "vs-dark",
                 "path": "./themes/NeutralVII-contrast-color-theme.json"
             },
             {
-                "label": "Neutral VIII",
+                "label": "Neutral 8",
                 "uiTheme": "vs-dark",
                 "path": "./themes/NeutralIX-color-theme.json"
             },
             {
-                "label": "Neutral VIII(contrast)",
+                "label": "Neutral 8(contrast)",
                 "uiTheme": "vs-dark",
                 "path": "./themes/NeutralIX-contrast-color-theme.json"
             },
             {
-                "label": "Neutral IX",
+                "label": "Neutral 9",
                 "uiTheme": "vs-dark",
                 "path": "./themes/NeutralX-color-theme.json"
             },
             {
-                "label": "Neutral IX(contrast)",
+                "label": "Neutral 9(contrast)",
                 "uiTheme": "vs-dark",
                 "path": "./themes/NeutralX-contrast-color-theme.json"
             },
@@ -129,14 +129,19 @@
                 "path": "./themes/NeutralXI-contrast-color-theme.json"
             },
             {
-                "label": "Neutral XI",
+                "label": "Neutral 11",
                 "uiTheme": "vs-dark",
                 "path": "./themes/NeutralXII-color-theme.json"
             },
             {
-                "label": "Neutral XI(contrast)",
+                "label": "Neutral 11(contrast)",
                 "uiTheme": "vs-dark",
                 "path": "./themes/NeutralXII-contrast-color-theme.json"
+            },
+            {
+                "label": "Neutral 12",
+                "uiTheme": "vs-dark",
+                "path": "./themes/NeutralXIII-color-theme.json"
             }
         ]
     },

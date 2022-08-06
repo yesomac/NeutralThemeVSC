@@ -1,73 +1,82 @@
 # Neutral
 
 **New Themes**
-## Neutral XI
-![This is a image](https://github.com/yesomac/NeutralThemeVSC/blob/master/image/neutral_11.png?raw=true)
+## Neutral SpaceBlue
+![This is a image](https://github.com/yesomac/NeutralThemeVSC/blob/master/image/neutral-12.png?raw=true)
 
-## Neutral XI Contrast
-![This is a image](https://github.com/yesomac/NeutralThemeVSC/blob/master/image/neutral_contrast_11.png?raw=true)
+## Neutral SpaceBlue Medium
+![This is a image](https://github.com/yesomac/NeutralThemeVSC/blob/master/image/neutral-12-medium.png?raw=true)
+
+## Neutral SpaceBlue Contrast
+![This is a image](https://github.com/yesomac/NeutralThemeVSC/blob/master/image/neutral-12-contrast.png?raw=true)
 
 ---
 
-## Neutral I
+## Neutral Blue
 ![This is a image](https://github.com/yesomac/NeutralThemeVSC/blob/master/image/neutral.png?raw=true)
 
-## Neutral I Contrast
+## Neutral Blue Contrast
 ![This is a image](https://github.com/yesomac/NeutralThemeVSC/blob/master/image/neutral_constrast.png?raw=true)
 
 
-## Neutral II
+## Neutral Red
 ![This is a image](https://github.com/yesomac/NeutralThemeVSC/blob/master/image/neutralII.png?raw=true)
 
-## Neutral II Contrast
+## Neutral Red Contrast
 ![This is a image](https://github.com/yesomac/NeutralThemeVSC/blob/master/image/neutralII_contrast.png?raw=true)
 
-## Neutral III
+## Neutral Green
 ![This is a image](https://github.com/yesomac/NeutralThemeVSC/blob/master/image/neutralIII.png?raw=true)
 
-## Neutral III Contrast
+## Neutral Green Contrast
 ![This is a image](https://github.com/yesomac/NeutralThemeVSC/blob/master/image/neutralIII_contrast.png?raw=true)
 
 
-## Neutral IV
+## Neutral Pink
 ![This is a image](https://github.com/yesomac/NeutralThemeVSC/blob/master/image/neutral_IV.png?raw=true)
 
-## Neutral IV Contrast
+## Neutral Pink Contrast
 ![This is a image](https://github.com/yesomac/NeutralThemeVSC/blob/master/image/neutral_IV_contrast.png?raw=true)
 
-## Neutral V
+## Neutral Orange
 ![This is a image](https://github.com/yesomac/NeutralThemeVSC/blob/master/image/neutralV.png?raw=true)
 
-## Neutral V Contrast
+## Neutral Orange Contrast
 ![This is a image](https://github.com/yesomac/NeutralThemeVSC/blob/master/image/neutralV_contrast.png?raw=true)
 
 
-## Neutral VI
+## Neutral RedPink
 ![This is a image](https://github.com/yesomac/NeutralThemeVSC/blob/master/image/neutralVI.png?raw=true)
 
-## Neutral VII
+## Neutral SpecialBlue
 ![This is a image](https://github.com/yesomac/NeutralThemeVSC/blob/master/image/neutral_7.png?raw=true)
 
-## Neutral VII Contrast
+## Neutral SpecialBlue Contrast
 ![This is a image](https://github.com/yesomac/NeutralThemeVSC/blob/master/image/neutral_7_contrast.png?raw=true)
 
-## Neutral VIII
+## Neutral PurpleBlue
 ![This is a image](https://github.com/yesomac/NeutralThemeVSC/blob/master/image/neutral_8.png?raw=true)
 
-## Neutral VIII Contrast
+## Neutral PurpleBlue Contrast
 ![This is a image](https://github.com/yesomac/NeutralThemeVSC/blob/master/image/neutral_8_contrast.png?raw=true)
 
-## Neutral IX
+## Neutral SpaceGreen
 ![This is a image](https://github.com/yesomac/NeutralThemeVSC/blob/master/image/neutral_9.png?raw=true)
 
-## Neutral IX Contrast
+## Neutral SpaceGreen Contrast
 ![This is a image](https://github.com/yesomac/NeutralThemeVSC/blob/master/image/neutral_9_contrast.png?raw=true)
 
-## Neutral X
+## Neutral Coffee
 ![This is a image](https://github.com/yesomac/NeutralThemeVSC/blob/master/image/neutral_10.png?raw=true)
 
-## Neutral X Contrast
+## Neutral Coffee Contrast
 ![This is a image](https://github.com/yesomac/NeutralThemeVSC/blob/master/image/neutral_10_contrast.png?raw=true)
+
+## Neutral Morita
+![This is a image](https://github.com/yesomac/NeutralThemeVSC/blob/master/image/neutral_11.png?raw=true)
+
+## Neutral Morita Contrast
+![This is a image](https://github.com/yesomac/NeutralThemeVSC/blob/master/image/neutral_contrast_11.png?raw=true)
 
 ---
 **Fonts:** 

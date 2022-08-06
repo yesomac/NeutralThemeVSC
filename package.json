@@ -8,10 +8,10 @@
     },
     "keywords": [
         "Themes",
-        "Neutral",
-        "Neutral(contrast)",
-        "NeutralII",
-        "NeutralII(contrast)",
+        "Neutral Blue",
+        "Neutral Blue(contrast)",
+        "Neutral Red",
+        "Neutral Red(contrast)",
         "NeutralII",
         "NeutralIII(contrast)",
         "NeutralIV",
@@ -34,114 +34,124 @@
     "contributes": {
         "themes": [
             {
-                "label": "Neutral",
+                "label": "Neutral Blue",
                 "uiTheme": "vs-dark",
                 "path": "./themes/Neutral-color-theme.json"
             },
             {
-                "label": "Neutral(contrast)",
+                "label": "Neutral Blue(contrast)",
                 "uiTheme": "vs-dark",
                 "path": "./themes/Neutral-contrast-color-theme.json"
             },
             {
-                "label": "Neutral 2",
+                "label": "Neutral Red",
                 "uiTheme": "vs-dark",
                 "path": "./themes/NeutralII-color-theme.json"
             },
             {
-                "label": "Neutral 2(contrast)",
+                "label": "Neutral Red(contrast)",
                 "uiTheme": "vs-dark",
                 "path": "./themes/NeutralII(contrast)-color-theme.json"
             },
             {
-                "label": "Neutral 3",
+                "label": "Neutral Green",
                 "uiTheme": "vs-dark",
                 "path": "./themes/NeutralIII-color-theme.json"
             },
             {
-                "label": "Neutral 3(contrast)",
+                "label": "Neutral Green(contrast)",
                 "uiTheme": "vs-dark",
                 "path": "./themes/NeutralIII-contrast-color-theme.json"
             },
             {
-                "label": "Neutral 4",
+                "label": "Neutral Pink",
                 "uiTheme": "vs-dark",
                 "path": "./themes/NeutralIV-color-theme.json"
             },
             {
-                "label": "Neutral 4(contrast)",
+                "label": "Neutral Pink(contrast)",
                 "uiTheme": "vs-dark",
                 "path": "./themes/NeutralIV-contrast-color-theme.json"
             },
             {
-                "label": "Neutral 5",
+                "label": "Neutral Orange",
                 "uiTheme": "vs-dark",
                 "path": "./themes/NeutralV-color-theme.json"
             },
             {
-                "label": "Neutral 5(contrast)",
+                "label": "Neutral Orange(contrast)",
                 "uiTheme": "vs-dark",
                 "path": "./themes/NeutralV-constrast-color-theme.json"
             },
             {
-                "label": "Neutral 6(contrast)",
+                "label": "Neutral RedPink(contrast)",
                 "uiTheme": "vs-dark",
                 "path": "./themes/NeutralVI-color-theme.json"
             },
             {
-                "label": "Neutral 7",
+                "label": "Neutral SpecialBlue",
                 "uiTheme": "vs-dark",
                 "path": "./themes/NeutralVII-color-theme.json"
             },
             {
-                "label": "Neutral 7(contrast)",
+                "label": "Neutral SpecialBlue(contrast)",
                 "uiTheme": "vs-dark",
                 "path": "./themes/NeutralVII-contrast-color-theme.json"
             },
             {
-                "label": "Neutral 8",
+                "label": "Neutral PurpleBlue",
                 "uiTheme": "vs-dark",
                 "path": "./themes/NeutralIX-color-theme.json"
             },
             {
-                "label": "Neutral 8(contrast)",
+                "label": "Neutral PurpleBlue(contrast)",
                 "uiTheme": "vs-dark",
                 "path": "./themes/NeutralIX-contrast-color-theme.json"
             },
             {
-                "label": "Neutral 9",
+                "label": "Neutral SpaceGreen",
                 "uiTheme": "vs-dark",
                 "path": "./themes/NeutralX-color-theme.json"
             },
             {
-                "label": "Neutral 9(contrast)",
+                "label": "Neutral SpaceGreen(contrast)",
                 "uiTheme": "vs-dark",
                 "path": "./themes/NeutralX-contrast-color-theme.json"
             },
             {
-                "label": "Neutral X",
+                "label": "Neutral Coffee",
                 "uiTheme": "vs-dark",
                 "path": "./themes/NeutralXI-color-theme.json"
             },
             {
-                "label": "Neutral X(contrast)",
+                "label": "Neutral Coffee(contrast)",
                 "uiTheme": "vs-dark",
                 "path": "./themes/NeutralXI-contrast-color-theme.json"
             },
             {
-                "label": "Neutral 11",
+                "label": "Neutral Morita",
                 "uiTheme": "vs-dark",
                 "path": "./themes/NeutralXII-color-theme.json"
             },
             {
-                "label": "Neutral 11(contrast)",
+                "label": "Neutral Morita(contrast)",
                 "uiTheme": "vs-dark",
                 "path": "./themes/NeutralXII-contrast-color-theme.json"
             },
             {
-                "label": "Neutral 12",
+                "label": "Neutral SpaceBlue",
                 "uiTheme": "vs-dark",
                 "path": "./themes/NeutralXIII-color-theme.json"
+            },
+            {
+                "label": "Neutral SpaceBlue(medium)",
+                "uiTheme": "vs-dark",
+                "path": "./themes/NeutralXIII-medium-color-theme.json"
+            },
+            {
+                "label": "Neutral SpaceBlue(contrast)",
+                "uiTheme": "vs-dark",
+                "path": "./themes/NeutralXIII-contrast-color-theme.json"
             }
         ]
     },

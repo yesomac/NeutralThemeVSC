@@ -13,8 +13,8 @@
     "editor.lineHighlightBorder": "#2f385e60",
     "editor.findMatchBackground": "#2e408f",
     "editor.findMatchHighlightBackground": "#3b456e",
-    "editor.hoverHighlightBackground": "#2d418d",
-    "editorHoverWidget.background": "#2f385e",
+    "editor.hoverHighlightBackground": "#353b8aad",
+    "editorHoverWidget.background": "#222337",//2f385e
     "editorGutter.background": "#222337",
     "editorIndentGuide.activeBackground": "#8ba0ff73",
     "editorIndentGuide.background": "#5060a7",
@@ -86,12 +86,12 @@
 
     //tab
     "tab.activeBackground": "#222337",
-    "tab.inactiveBackground": "#222337",
+    "tab.inactiveBackground": "#232438",
     "tab.hoverBackground": "#30375c65",//6e769e
     "tab.hoverBorder": "#222337",
     "tab.activeBorder": "#222337",
     "tab.activeBorderTop": "#7d95ff",
-    "tab.border": "#222337",
+    "tab.border": "#232438",
     "tab.activeForeground": "#fff",
     "tab.hoverForeground": "#afbeff",
     // "tab.unfocusedHoverBorder": "#434f86",
@@ -101,8 +101,8 @@
     "tab.unfocusedActiveForeground": "#f3f5f8",
     "tab.unfocusedInactiveBackground": "#222337",
     "tab.unfocusedInactiveForeground": "#d6e2f3",
-    "editorGroupHeader.tabsBackground": "#222337",
-    "editorGroupHeader.tabsBorder": "#44476d85",
+    "editorGroupHeader.tabsBackground": "#232438",
+    "editorGroupHeader.tabsBorder": "#232438",
     "editorGroup.border": "#434f86",
     "widget.shadow": "#434f8679",
     "icon.foreground": "#889df8",

@@ -2,7 +2,7 @@
     "name": "neutral",
     "displayName": "neutral",
     "description": "Theme for vscode",
-    "version": "0.0.5",
+    "version": "0.0.6",
     "engines": {
         "vscode": "^1.54.0"
     },
@@ -152,6 +152,11 @@
                 "label": "Neutral SpaceBlue(contrast)",
                 "uiTheme": "vs-dark",
                 "path": "./themes/NeutralXIII-contrast-color-theme.json"
+            },
+            {
+                "label": "Neutral S",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Neutral-S-contrast-color-theme.json"
             }
         ]
     },

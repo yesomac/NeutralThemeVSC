@@ -2,7 +2,7 @@
     "name": "neutral",
     "displayName": "neutral",
     "description": "Theme for vscode",
-    "version": "0.0.6",
+    "version": "0.0.7",
     "engines": {
         "vscode": "^1.54.0"
     },
@@ -157,6 +157,11 @@
                 "label": "Neutral S",
                 "uiTheme": "vs-dark",
                 "path": "./themes/Neutral-S-contrast-color-theme.json"
+            },
+            {
+                "label": "Neutral S (contrast)",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Neutral-S-Dark-contrast-color-theme.json"
             }
         ]
     },

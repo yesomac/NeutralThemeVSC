@@ -2,7 +2,15 @@
 
 ## Neutral S
 
-![This is a image](https://github.com/yesomac/NeutralThemeVSC/blob/master/image/neutral-12.png?raw=true)
+![This is a image](https://github.com/yesomac/NeutralThemeVSC/blob/master/image/neutral-s-23.png?raw=true)
+
+## Neutral S Contrast
+
+![This is a image](https://github.com/yesomac/NeutralThemeVSC/blob/master/image/neutral-s-contrast.png?raw=true)
+
+## Neutral S Dark
+
+![This is a image](https://github.com/yesomac/NeutralThemeVSC/blob/master/image/neutral-sdark.png?raw=true)
 
 ## Neutral SpaceBlue
 

@@ -146,9 +146,9 @@
 
     //new full
     "editorInfo.border": "#994e58",
-    "editorGroup.border": "#8f4c55",
+    "editorGroup.border": "#8f4c5577",
     "editorIndentGuide.background": "#bb707a91",
-    "widget.shadow": "#3d060e83",
+    "widget.shadow": "#a8505d",
     "icon.foreground": "#be888f",
     "tree.indentGuidesStroke": "#c57781",
     //bracket

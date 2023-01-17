@@ -156,8 +156,8 @@
 
     //new full
     "editorInfo.border": "#994e58",
-    "editorGroup.border": "#8f4c55",
-    "editorIndentGuide.background": "#bb707a91",
+    "editorGroup.border": "#8f4c5588",
+    "editorIndentGuide.background": "#bb707a",
     "widget.shadow": "#5f1f285e",
     "icon.foreground": "#ccadb1",
     "tree.indentGuidesStroke": "#c57781",
